@@ -952,7 +952,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical" (layer "B.Cu")
     (tstamp f5edfbaf-9420-4206-a57c-98201c64118d)
-    (at 165.085 100.33 90)
+    (at 165.1 100.33 90)
     (descr "Through hole straight pin header, 1x08, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x08 2.54mm single row")
     (property "Sheetfile" "Ammeter.kicad_sch")
