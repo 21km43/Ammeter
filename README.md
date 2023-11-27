@@ -1,6 +1,6 @@
 # Ammeter
 [INA226](https://datasheet.lcsc.com/lcsc/1809192224_Texas-Instruments-INA226AIDGSR_C49851.pdf)を利用した電流計。主にマイコンの消費電流の測定に利用する。  
-特徴は以下の通り。
+性能は以下の通り。動作確認済み。
 * 入力電圧: 0~36V
 * シャント抵抗値: 100mΩ
 * 分解能: 25µA
